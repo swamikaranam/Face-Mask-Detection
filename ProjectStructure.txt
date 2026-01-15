@@ -1,0 +1,19 @@
+face-mask-detection/
+│
+├── dataset/
+│   ├── with_mask/
+│   └── without_mask/
+│
+├── models/
+│   └── mask_detector.model
+│
+├── src/
+│   ├── train_mask_detector.py
+│   ├── detect_mask_image.py
+│   └── detect_mask_video.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+
